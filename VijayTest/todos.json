@@ -1,0 +1,16 @@
+[
+  {
+    "title": "ELC proposal",
+    "description": "Proposal deck review",
+    "due_date": "2026-06-07",
+    "priority": "Medium",
+    "status": "Not Started"
+  },
+  {
+    "title": "CSL solution updates and review",
+    "description": "CSL estimates for each stream to be completed",
+    "due_date": "2026-06-07",
+    "priority": "High",
+    "status": "Not Started"
+  }
+]
